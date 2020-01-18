@@ -1,0 +1,6 @@
+* {
+  text-align: center;
+  color: white;
+  background-color: black;
+  /* border: 3px solid black;  CSS version of console.log for checking errors */
+}
